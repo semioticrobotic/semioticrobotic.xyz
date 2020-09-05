@@ -1,8 +1,6 @@
-Bryan G. Behrenshausen, PhD
-
+Bryan G. Behrenshausen, PhD  
 Durham, NC (USA)  
-
-semioticrobotic.online  
+semioticrobotic.online
 
 == Writing, Editing & Publishing Experience
 
@@ -105,4 +103,4 @@ Computer Software & Competencies
 High degree of proficiency with Linux-based operating environments (preferred)• Can hand-code W3C standards-compliant websites in HTML and CSS
 Proficiency with desktop publishing for print-ready books and manuscripts
 
-(Last updated August 24, 2020)
+(Last updated September 05, 2020)
