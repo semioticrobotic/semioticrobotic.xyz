@@ -1,5 +1,6 @@
-# Isaac Asimov's Science Fiction Magazine
+# Isaac Asimov's Science Fiction Magazine  
 A collection, an archive, a record  
+Compiled by Bryan Behrenshausen (semioticrobotic)  
 Last updated: 2020.10.04
 
 ## Volume 3, Issue 9 (September 1979)

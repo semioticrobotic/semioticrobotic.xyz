@@ -22,8 +22,8 @@ Writer, editor, community manager (Opensource.com)
 Digital Growth, Red Hat; Raleigh—2011‒2018  
 Composed original writing on open source technology and culture for Opensource.com
 Managed global volunteer writing community
-Curated and published newsletter for 3,000 subscribers
-Edited written materials receiving 15,000 page views per month
+Curated and published newsletter
+Edited written materials
 Published articles using Drupal CMS
 Hosted monthly community meetings and Twitter chats
 Managed social media account (Twitter)
@@ -40,7 +40,6 @@ Assisted with SEO initiatives
 Reporter (General Assignment and Features)
 Reading Eagle newspaper; Reading—2001‒2002 & 2005  
 Worked as daily city/metro reporter
-Published several front-page news stories
 Composed lifestyle features, fitness pieces, personality profiles, entertainment (book, concert) reviews, and culture pieces
 Coordinated story packages and layout/art for stories
 Edited page proofs for print publication
@@ -53,7 +52,7 @@ Created and instructed course entitled "Foundations of an Open Source World"
 
 Instructor
 Dept. of Communication Studies, University of North Carolina; Chapel Hill—2010‒2015  
-Instructed courses in public speaking, media history/theory, and communiation theory
+Instructed courses in public speaking, media history/theory, and communication theory
 Created and instructed course entitled "Introduction to Video Game Studies"  
 
 Instructor
@@ -70,7 +69,7 @@ Open Source & Culture
 And ongoing record of publications concerning open source software and open culture is available at semioticrobotic.info and opensource.com/users/bbehrens.
 
 Open Organization
-The Open Organization book series is available at opensource.com/open-organization/resources/book-series.
+The Open Organization book series is available at theopenorganization.org/books/.
 
 == Education
 
@@ -82,6 +81,12 @@ University of Maine, Orono—2005‒2007
 
 B.S., Speech Communication (minor in Print Journalism)
 Millersville University of Pennsylvania, Millersville—2001‒2005
+
+== Professional Training
+
+Open Source Technology Management Program
+Brandeis University, Waltham—2020‒present
+Courses completed: Open Source Workflow and Infrastructure (2020)
 
 == Skills
 
@@ -103,4 +108,4 @@ Computer Software & Competencies
 High degree of proficiency with Linux-based operating environments (preferred)• Can hand-code W3C standards-compliant websites in HTML and CSS
 Proficiency with desktop publishing for print-ready books and manuscripts
 
-(Last updated September 05, 2020)
+(Last updated January 17, 2021)
